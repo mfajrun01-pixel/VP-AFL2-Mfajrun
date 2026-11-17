@@ -8,7 +8,7 @@
 
 ## 📦 Release APK
 
-Kamu bisa langsung mengunduh aplikasinya melalui tautan berikut: [](#) *(atau arahkan ke link GitHub Releases kamu)*
+Kamu bisa langsung mengunduh aplikasinya melalui tautan berikut: [Download Todolist.apk](https://github.com/mfajrun01-pixel/VP-AFL2-Mfajrun/releases/download/apk/app-release.apk)
 
 ---
 
